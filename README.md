@@ -147,9 +147,3 @@ dist/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Lakshitha Madushan - [lakshitha@example.com](mailto:lakshitha@example.com)
-
-Project Link: [https://github.com/your-username/lakshitha-portfolio](https://github.com/your-username/lakshitha-portfolio)
